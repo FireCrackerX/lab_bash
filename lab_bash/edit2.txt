@@ -1,0 +1,3 @@
+total 0
+-rw-rw-r-- 1 piyawach piyawach 0 ต.ค.  10 21:45 edit1.txt
+-rw-rw-r-- 1 piyawach piyawach 0 ต.ค.  10 21:45 edit2.txt
